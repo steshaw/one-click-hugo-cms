@@ -1,6 +1,6 @@
 ---
-title: Great coffee with a conscience
-subtitle: Support sustainable farming while enjoying a cup
+title: Beck's Psychology
+subtitle: Fucked in the head? Call us!
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Huh Kaldi?
